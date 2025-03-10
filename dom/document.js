@@ -7,3 +7,6 @@ PARRAFO.innerHTML = mayuscula;
 const PARRAFO2 = document.getElementById("id_parrafo2");
 let primerCaracter = "🟢 "
 PARRAFO2.innerText = primerCaracter + parrafo.slice(0)
+
+
+
